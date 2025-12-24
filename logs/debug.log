@@ -1,0 +1,13 @@
+jarrivi@RIO:/mnt/c/Users/JARRIVI/mujoco_mpc/build$ ./bin/mjpc --mjcf=../mjpc/tasks/simple_car/task.xml > debug.log 2>&1
+jarrivi@RIO:/mnt/c/Users/JARRIVI/mujoco_mpc/build$ ./bin/mjpc --task=SimpleCar
+MuJoCo MPC (MJPC)
+ MuJoCo version 3.2.3
+ Hardware threads:  24
+  physics        :  1
+  render         :  1
+  Planner        :  1
+    planning     :  21
+  Estimator      :  0
+    estimation   :  0
+位置 X:-1.17126e-05 Y:3.30704e-16 Z:0.0297782 | 速度:1.01619e-16 km/h | 加速度:2.45136e-16 m/s^2      jarrivi@RIO:/mnt/c/Users/JARRIVI/mujoco_mpc/build$ ./bin/mjpc --mjcf=../mjpc/tasks/simple_car/task.xml > debug.log 2>&1
+jarrivi@RIO:/mnt/c/Users/JARRIVI/mujoco_mpc/build$
