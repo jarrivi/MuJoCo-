@@ -1,9 +1,9 @@
 # MuJoCo MPC 汽车仪表盘 - 作业报告
 
-学号: 232011177
-姓名： 张航
-课程: 计科2305班
-完成日期：2025年12月23日
+##学号: 232011177
+##姓名： 张航
+##课程: 计科2305班
+##完成日期：2025年12月23日
 
 ## 一、项目概述
 
@@ -190,3 +190,4 @@ else gear_char = 'P';
 [2] MuJoCo MPC Repository: [https://github.com/google-deepmind/mujoco_mpc](https://github.com/google-deepmind/mujoco_mpc)
 
 [3] C++ 课程大作业说明书 (大作业.pdf)
+
